@@ -50,4 +50,3 @@ def is_in_table(corpus, idx):
 
 
 
-
